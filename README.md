@@ -5,8 +5,7 @@ Integrantes - RA
 
 Fernando Schroder Rodrigues - 11201921885
 
-
-ITEM 	                                                                                      FEITO
+ITEM                                                                                            FEITO
 
 Possuir 2 tipos de dados (pelo menos 1 String)  	
 
