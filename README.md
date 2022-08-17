@@ -1,6 +1,7 @@
 # Proj_comp_ufabc2022.2
 Projeto de compiladores para o quadrimestre suplementar 2022.2 da UFABC
 
+Linguagem de programação utilizada Java
 Integrantes - RA 
 
 Fernando Schroder Rodrigues - 11201921885
